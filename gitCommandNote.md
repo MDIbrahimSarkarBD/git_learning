@@ -26,4 +26,7 @@
 
 ## Second Video on Stack Learner
 - git show 31b2ef4
-- git deff
+- git diff
+- git diff --staged
+- git diff 31b2ef4 31b2ef6
+
