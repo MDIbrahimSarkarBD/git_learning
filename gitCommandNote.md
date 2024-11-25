@@ -29,4 +29,7 @@
 - git diff
 - git diff --staged
 - git diff 31b2ef4 31b2ef6
-
+- git rm fileName
+- git reset HEAD fileName
+- git add .
+- git commit -m "one file delete"
