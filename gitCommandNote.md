@@ -33,3 +33,4 @@
 - git reset HEAD fileName
 - git add .
 - git commit -m "one file delete"
+- git checkout 9007587 fileName
