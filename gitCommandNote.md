@@ -15,10 +15,15 @@
 - Esc key then :x Enter key
 - git log
 
---
+---
 ### git modified
 - git add .
 - git commit -m "any text input that i am understand"
 - git status
 - git log
 - git log --oneline
+---
+
+## Second Video on Stack Learner
+- git show 31b2ef4
+- git deff
